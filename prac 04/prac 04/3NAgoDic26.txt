@@ -1,0 +1,8 @@
+Nombres: Jose Gabriel
+Apellidos: Morales Dominguez
+Edad: 22
+Estatura: 1.65
+Telefono: 9611859335
+Genero: Hombre
+
+
